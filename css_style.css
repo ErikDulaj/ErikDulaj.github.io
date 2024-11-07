@@ -1,11 +1,9 @@
-
-h2,
-h3 ,
 h1{
-  font-family: Consolas ;
+  font-family: Consolas;
+  color: grey;
 }
 p {
 font-family: Consolas ;
-color : darkslateblue;
+color : rgb(90, 2, 20);
 
 }
